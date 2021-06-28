@@ -1,0 +1,13 @@
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\bin\Release\The Mountain Project.exe.config
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\bin\Release\The Mountain Project.exe
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\bin\Release\The Mountain Project.pdb
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The_Mountain_Project.Animation.resources
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The_Mountain_Project.MainForm.resources
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The_Mountain_Project.Properties.Resources.resources
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The Mountain Project.csproj.GenerateResource.cache
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The Mountain Project.csproj.CoreCompileInputs.cache
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The Mountain Project.csproj.CopyComplete
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The Mountain Project.exe
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The Mountain Project.pdb
+C:\Users\Wesker\Desktop\Project\The Mountain Project\The Mountain Project\obj\Release\The Mountain Project.csprojAssemblyReference.cache
